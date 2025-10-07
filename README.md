@@ -12,6 +12,6 @@ The computational workflows and analysis in this study leverage the MatCalc soft
 
 If you use MatCalc, please cite it as follows:
 
-Liu, R., Liu, E., Riebesell, J., Qi, J., Ong, S. P., & Ko, T. W. (2024). MatCalc: A Python library for calculating materials properties from the potential energy surface (PES) (Version 0.0.4). https://doi.org/10.5281/zenodo.xxxxxxx [replace with actual DOI if available]
+Liu, R., Liu, E., Riebesell, J., Qi, J., Ong, S. P., & Ko, T. W. (2024). MatCalc: A Python library for calculating materials properties from the potential energy surface (PES) (Version 0.0.4). 
 
 Software available at: https://github.com/materialsvirtuallab/matcalc
