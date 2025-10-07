@@ -6,3 +6,12 @@ High-performance solid-state electrolytes (SSEs) are crucial for next-generation
 <img src="figs/3.png" width="1200">
 
 <img src="figs/5.png" width="600">
+
+Data and Code Availability
+The computational workflows and analysis in this study leverage the MatCalc software package, a Python library for calculating materials properties from the potential energy surface (PES), including thermodynamic stability, phase diagrams, and mechanical properties. MatCalc was used to compute thermodynamic quantities and assess phase stability from MLIP-generated energy data.
+
+If you use MatCalc, please cite it as follows:
+
+Liu, R., Liu, E., Riebesell, J., Qi, J., Ong, S. P., & Ko, T. W. (2024). MatCalc: A Python library for calculating materials properties from the potential energy surface (PES) (Version 0.0.4). https://doi.org/10.5281/zenodo.xxxxxxx [replace with actual DOI if available]
+
+Software available at: https://github.com/materialsvirtuallab/matcalc
